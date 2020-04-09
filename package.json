@@ -1,5 +1,5 @@
 {
-  "name": "converters",
+  "name": "prettyjson",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
